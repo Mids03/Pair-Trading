@@ -56,7 +56,7 @@ Install the required Python libraries:
 
 ## Example Code
 Below is an example snippet to install dependencies and start working with cointegration testing:
-```bash
+```python
 !pip install statsmodels --user  
 !pip install pandas==0.24.2 --user
 
